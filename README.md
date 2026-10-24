@@ -1,10 +1,10 @@
-<h1 align="center">Hola! Soy Sabrina Villegas 👋</h1>
+
 
 <p align="center">
   <strong>Técnica en Petróleo | Estudiante de Ciencia de datos e IA</strong>
 </p>
 
-<h3>🛠️ Tecnologías que utilizo</h3>
+<h3>Tecnologías que utilizo</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" title="Python" width="60" />
