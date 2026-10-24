@@ -4,12 +4,20 @@
   <strong>Técnica en Petróleo | Estudiante de Ciencia de datos e IA</strong>
 </p>
 
+<h3>🛠️ Tecnologías que utilizo</h3>
+
 <p align="center">
-  Python · SQL · Power BI 
+  <img src="https://img.icons8.com/color/96/python--v1.png" alt="Python" title="Python" width="60" />
+  <img src="https://img.icons8.com/color/96/sql.png" alt="SQL" title="SQL" width="60" />
+  <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" title="Power BI" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/json/json-original.svg" alt="JSON" title="JSON" width="60" />
 </p>
 
 <p align="center">
-  Me interesa transformar datos en información útil para tomar mejores decisiones.
+  Me interesa transformar datos en información util para tomar mejores decisiones.
 </p>
 
 ---
@@ -39,9 +47,3 @@ de energía y tecnología.
 Desarrollo mi formación a través de proyectos prácticos,
 aplicando herramientas de datos e inteligencia artificial
 y fortaleciendo mis habilidades de programación.
-
-### 🤝 Conectemos
-
-Estoy abierta a oportunidades para aportar mis conocimientos,
-colaborar en proyectos y seguir creciendo profesionalmente
-en el mundo de los datos y la inteligencia artificial.
