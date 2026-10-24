@@ -16,13 +16,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/json/json-original.svg" alt="JSON" title="JSON" width="60" />
 </p>
 
-<p align="center">
-  Me interesa transformar datos en información util para tomar mejores decisiones.
-</p>
-
 ---
 
-### 🙋‍♀️ Sobre mí
+### Sobre mí
 
 Combino mi formación como Técnica en Petróleo con conocimientos
 en programación, análisis de datos e inteligencia artificial.
@@ -34,7 +30,7 @@ y desarrollar soluciones a problemas concretos.
 Me interesa especialmente aplicar estas habilidades en proyectos
 de energía y tecnología.
 
-### 💡 ¿Qué puedo aportar?
+### ¿Qué puedo aportar?
 
 - **Análisis de datos:** limpieza, organización y exploración de información.
 - **Visualización:** creación de reportes y tableros con Power BI.
@@ -42,7 +38,7 @@ de energía y tecnología.
 - **SQL:** consultas para extraer y relacionar información de bases de datos.
 - **Trabajo en equipo:** participación en proyectos, documentación y resolución de problemas.
 
-### 🚀 Proyectos y aprendizaje
+### Proyectos y aprendizaje
 
 Desarrollo mi formación a través de proyectos prácticos,
 aplicando herramientas de datos e inteligencia artificial
