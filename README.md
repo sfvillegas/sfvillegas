@@ -14,6 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/json/json-original.svg" alt="JSON" title="JSON" width="60" />
+  <img src="https://img.icons8.com/color/96/google-colab.png" alt="Google Colab" title="Google Colab" width="60" />
 </p>
 
 ---
